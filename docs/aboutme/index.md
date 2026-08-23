@@ -6,9 +6,7 @@ When I was asked what I wanted to be when I grew up I had a different answer eve
 
 After I graduate, I plan on going to grad school and getting my masters in biomedical engineering. I have aspirations to go research, specifically on neuro stimulators and other prosthetics. I have recently been in the works to try and be an intern or an assistant of a team that is doing a clinical trial of a new cancer treatment. I love the research aspect of engineering and all of the trials and errors of the process. I aspire to be able to help people through engineering and use my skills to do so. 
 
-
 #What does it mean to defend an engineering decision: and how I currently do it
 Defending an engineering decision means to stand behind your work and to have the confidence in it. You also have to be able to explain your choices and why you chose the path you did. I currently do this by keeping track of my process and leave comments as well on what I am doing. One slight change of a plan can cost money or the whole project to fail. I find it very important to keep everything clear and concise. 
-
 
 I spent roughly 8 hours on this assignment, with research and the multiple revisions of this assignment. 
