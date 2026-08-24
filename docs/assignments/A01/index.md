@@ -31,6 +31,8 @@ https://nhoong.github.io/
 
 Task B - Product Analysis
 
+a) The primary function of a pull tab is to act as a lever to create enough force to open a can. By pulling the tab upwards it pushes in the pre-scored line breaking the max shear stress of the can with the bottom of the tab. The tab is attached to the can in the middle creating a fulcrum in which helps the 
+
 ## Decide
 
 The homepage is very important to a portfolio, it is there to explain how the portfolio is laid out and what it is all about. It serves as an introduction to the portfolio and an attention grabber. At the top of the home page it shows what class it is for and how it will be broken down. It shows how the different weeks and assignments will be structured. Without this it could be hard to follow along each assignment and the progress of the class. In the homepage it states the purpose of this portfolio which is to show the projects done in this class and how much progress each student makes. We will be able to use this to show off to employers and future endeavors. 
