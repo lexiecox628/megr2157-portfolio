@@ -19,14 +19,16 @@ https://nhoong.github.io/
 
 
 **Portfolio 2:**
+(https://johnduncanstevens.wixsite.com/portfolio/engineeringprojects)
 
-**A - Navigability)**
+**A - Navigability)** In this portfolio all projects can be accessed within 60 seconds with all of the projects listed in one tab. They all have a picture with a rundown of what the project is. All of the projects have extended details of what the project is, the components, and steps it took to complete each project. 
 
-**B - Reproducibility)**
+**B - Reproducibility)** They also show a decision matrix which I find very important in the replication so they are not guessing why they are doing a certain step. There are also very thought out sketches and 3D print examples. I feel that all of these projects can be reciprocated. 
 
-**C - Evidence of Reasoning)**
+**C - Evidence of Reasoning)** This portfolio shows a very detailed on why he did certain things. Especially the Covid-19 PSA Rube Goldberg Machine, it also shows other peoples thought process and how that influenced their decision. 
 
-**D - Professional Tone)**
+**D - Professional Tone)** It does use a very professional tone, as well as the layout is professional. The language is not too complicated to which an average person can't understand it but it is still something that can be presented in a setting that has more specialized people. 
+
 Task B - Product Analysis
 
 ## Decide
