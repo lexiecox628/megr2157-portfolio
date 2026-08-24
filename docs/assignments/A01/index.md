@@ -35,7 +35,9 @@ Task B - Product Analysis
 
 The homepage is very important to a portfolio, it is there to explain how the portfolio is laid out and what it is all about. It serves as an introduction to the portfolio and an attention grabber. At the top of the home page it shows what class it is for and how it will be broken down. It shows how the different weeks and assignments will be structured. Without this it could be hard to follow along each assignment and the progress of the class. In the homepage it states the purpose of this portfolio which is to show the projects done in this class and how much progress each student makes. We will be able to use this to show off to employers and future endeavors. 
 
-I decided to change the navigation titles for the assignments. I did this because I find it easier to look at specific projects and what we are doing. It gives someone looking at the portfolio from the outside a better understanding of what the assignment is without having to click on it before instead of just the assignment number. 
+I decided to change the section titles for the assignments to what the assignments are called. I did this because I find it easier to look at specific projects and what we are doing. It gives someone looking at the portfolio from the outside a better understanding of what the assignment is without having to click on it instead of just the assignment number. 
+
+I plan on committing to write in professional manor and to be detailed to where someone else can replicate my work, but I also plan on showing progress in my work and writing. 
 
 ## Communicate
 
