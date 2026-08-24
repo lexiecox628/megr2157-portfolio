@@ -33,7 +33,7 @@ Task B - Product Analysis
 
 ## Decide
 
-
+The homepage is to explain how the portfolio is laid out and what it is all about. At the top of the home page it shows what class it is for and how it will be broken down. It shows that throughout this class we should progress, by the end of this class we should 
 
 ## Communicate
 
