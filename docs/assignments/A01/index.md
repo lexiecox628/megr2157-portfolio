@@ -34,5 +34,7 @@ Task B - Product Analysis
 ## Decide
 
 
+
 ## Communicate
 
+The communicate portion of this assignment can be found in the about me tab. 
