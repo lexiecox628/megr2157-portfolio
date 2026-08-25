@@ -33,7 +33,7 @@ Task B - Product Analysis
 
 a) The primary function of a pull tab is to act as a lever to create enough force to open a can. By pulling the tab upwards it pushes in the pre-scored line breaking the max shear stress of the can with the bottom of the tab. The tab is attached to the can in the middle creating a fulcrum that the tab moves about. 
 
-b) The mechanical advantage is the torque produced by the lever. It can be shown in the equation $Torque=F_(in) + L_(in) = F_(end) + L_(fulcrum)$
+b) The mechanical advantage is the torque produced by the lever. It can be shown in the equation $Torque=F_i_n + L_(in) = F_(end) + L_(fulcrum)$
 
 ## Decide
 
