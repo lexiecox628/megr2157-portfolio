@@ -31,9 +31,25 @@ https://nhoong.github.io/
 
 Task B - Product Analysis
 
-a) The primary function of a pull tab is to act as a lever to create enough force to open a can. By pulling the tab upwards it pushes in the pre-scored line breaking the max shear stress of the can with the bottom of the tab. The tab is attached to the can in the middle creating a fulcrum that the tab moves about. 
+a) The primary function of a pull tab is to operate as a mechanical lever that increases the applied force to open a sealed container. When someone pulls the tab upward, the end of the tab rotates downward against the pre-scored seam of the lid. This action creates a enough force that exceeds the ultimate shear strength of the material, therefore breaking the seal on the lid. The tab is secured to the lid via a fulcrum, which serves as the part that connects the tab to the can and the central point of the lever.
 
-b) The mechanical advantage is the torque produced by the lever. It can be shown in the equation $Torque=F_[in] + L_[in] = F_[end] + L_[fulcrum]$
+b) The mechanical advantage is the torque produced by the lever. It can be shown in the equation $Torque=F_i + L_i = F_e + L_f$
+F_i = Force applied
+L_i = Length
+F_e = Force at the end of the tab
+L_f = Length from the fulcrum to the end
+
+A key design assumption for this project is that the deflection of the scored lid material exceeds that of the tab itself. The localized stress concentration will cause the scored boundary to fatigue and fracture significantly faster than the tab structure or its connecting fulcrum.
+
+c) <img width="3024" height="4032" alt="IMG_1171" src="https://github.com/user-attachments/assets/daf74aae-f9f9-4a56-9cca-4a7dcb7973a0" />
+
+This image shows the fulcrum of the tab. It serves as the central pivot point anchored to the can body by a small bar. By positioning this fulcrum centrally, the mechanism optimizes mechanical leverage, making the upward lifting force applied at the top of the tab into a downward force at the bottom, which breaks the scored line to open the container.
+
+<img width="3024" height="4032" alt="IMG_1168" src="https://github.com/user-attachments/assets/3685ba36-1f2f-4513-a265-d1eb4397e1c7" />
+
+This image shows the tab itself off of the can. `The beverage tab utilizes an asymmetric geometry to maximize mechanical advantage by making the top ring longer than the distance from the fulcrum to the bottom. This multiplies the input force causing the effort from the user be less. 
+
+
 
 ## Decide
 
