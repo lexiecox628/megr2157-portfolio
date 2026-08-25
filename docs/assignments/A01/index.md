@@ -47,9 +47,9 @@ This image shows the fulcrum of the tab. It serves as the central pivot point an
 
 <img width="3024" height="4032" alt="IMG_1168" src="https://github.com/user-attachments/assets/3685ba36-1f2f-4513-a265-d1eb4397e1c7" />
 
-This image shows the tab itself off of the can. `The beverage tab utilizes an asymmetric geometry to maximize mechanical advantage by making the top ring longer than the distance from the fulcrum to the bottom. This multiplies the input force causing the effort from the user be less. 
+This image shows the tab itself off of the can. `The tab uses an asymmetric geometry to maximize mechanical advantage by making the top ring longer than the distance from the fulcrum to the bottom. This multiplies the input force causing the effort from the user be less. 
 
-
+d) The patent number is US3241708A and the inventor is Fernando M Ronci. Two alternative solutions to this product is a twist top or a bottle cap. Some drink containers have a twist top at which you turn the top breaking the seal to get to the drink. With this design it is harder to open but you can retwist it back on to seal it back. Another solution is just something to pierce the top of the can. This you would use a similar leverage as the tab but it would not have the fulcrum that is included in the tab. One design decision I see that the inventor made is the fact that the top of the tab is longer than the bottom as described in the second image. It allows the leverage to be easier to the user in comparison of other designs. 
 
 ## Decide
 
