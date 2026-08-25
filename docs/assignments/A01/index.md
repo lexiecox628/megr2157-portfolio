@@ -34,9 +34,13 @@ Task B - Product Analysis
 a) The primary function of a pull tab is to operate as a mechanical lever that increases the applied force to open a sealed container. When someone pulls the tab upward, the end of the tab rotates downward against the pre-scored seam of the lid. This action creates a enough force that exceeds the ultimate shear strength of the material, therefore breaking the seal on the lid. The tab is secured to the lid via a fulcrum, which serves as the part that connects the tab to the can and the central point of the lever.
 
 b) The mechanical advantage is the torque produced by the lever. It can be shown in the equation $Torque=F_i + L_i = F_e + L_f$
+
 F_i = Force applied
+
 L_i = Length
+
 F_e = Force at the end of the tab
+
 L_f = Length from the fulcrum to the end
 
 A key design assumption for this project is that the deflection of the scored lid material exceeds that of the tab itself. The localized stress concentration will cause the scored boundary to fatigue and fracture significantly faster than the tab structure or its connecting fulcrum.
