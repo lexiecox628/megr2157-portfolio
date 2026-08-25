@@ -35,13 +35,13 @@ a) The primary function of a pull tab is to operate as a mechanical lever that i
 
 b) The mechanical advantage is the torque produced by the lever. It can be shown in the equation $Torque=F_i + L_i = F_e + L_f$
 
-F_i = Force applied
+$F_i$ = Force applied
 
-L_i = Length
+$L_i$ = Length
 
-F_e = Force at the end of the tab
+$F_e$ = Force at the end of the tab
 
-L_f = Length from the fulcrum to the end
+$L_f$ = Length from the fulcrum to the end
 
 A key design assumption for this project is that the deflection of the scored lid material exceeds that of the tab itself. The localized stress concentration will cause the scored boundary to fatigue and fracture significantly faster than the tab structure or its connecting fulcrum.
 
