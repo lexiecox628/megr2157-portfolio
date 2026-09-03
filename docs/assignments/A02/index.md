@@ -32,6 +32,14 @@ I also needed to find the shear yield of the pins.
 
 <img width="1068" height="816" alt="image6" src="https://github.com/user-attachments/assets/337d48cd-377b-419f-a82d-0fc06e08a24e" />
 
+This is the start of the truss with all of the lengths
+
+<img width="1040" height="493" alt="Screenshot 2026-09-03 001504" src="https://github.com/user-attachments/assets/233a1703-e7f2-4a9c-98e7-e037a47e6f5e" />
+
+Here is the truss without pins
+
+<img width="812" height="370" alt="Screenshot 2026-09-03 002901" src="https://github.com/user-attachments/assets/bafa53e8-45c4-42cb-a50e-3eb452c5c369" />
+
 ## Decide
 Thinking about how bridges are made and how points C and D needed to be more supported. I felt that doing the math would also be easier. 
 
@@ -39,11 +47,6 @@ This is a picture reference picture to the type of truss I made. Picture website
 
 <img width="738" height="354" alt="images" src="https://github.com/user-attachments/assets/95e50dbb-77b8-435e-bb55-34b444794767" />
 
-This is the start of the truss with all of the lengths
-<img width="1040" height="493" alt="Screenshot 2026-09-03 001504" src="https://github.com/user-attachments/assets/233a1703-e7f2-4a9c-98e7-e037a47e6f5e" />
-
-Here is the truss without pins
-<img width="812" height="370" alt="Screenshot 2026-09-03 002901" src="https://github.com/user-attachments/assets/bafa53e8-45c4-42cb-a50e-3eb452c5c369" />
 
 
 
