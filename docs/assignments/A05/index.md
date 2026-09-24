@@ -51,7 +51,7 @@ Feature 5
 
 I then created isometric sketches of both the stress analysis and stiffness analysis using the values I calculated. 
 
-## Lessons Leanred
+## Lessons Learned
 
 In my observations the stress dimensions were always larger values than the stiffness. Therefore the stress dimensions determined which final size I used. 
 
