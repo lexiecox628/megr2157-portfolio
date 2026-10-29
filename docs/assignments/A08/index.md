@@ -57,6 +57,4 @@ Unfortunately my computer kept crashing once I got to this point of the assignme
 
 During this assignment I learned how to create a gear box with information of the shafts and the gear ratio. Unfortunately for this assignment every time I tried assembling the part my computer would crash so I was unable to complete it. This was fully my responsibility as I did not leave myself with enough time to prepare for this happening. 
 
-Overall this assignment took me 8 hours. [Sophomore Design (1).pdf](https://github.com/user-attachments/files/34111366/Sophomore.Design.1.pdf)
-[Sophomore Design (1).pdf](https://github.com/user-attachments/files/34111319/Sophomore.Design.1.pdf)
-[Sophomore Design (1).pdf](https://github.com/user-attachments/files/34111312/Sophomore.Design.1.pdf)
+Overall this assignment took me 8 hours.
