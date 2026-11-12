@@ -178,6 +178,8 @@ This assignment took us roughly 6 hours to complete.
 
 ## Resources
 
+https://mechanicalc.com/reference/beam-deflection-tables
 
+https://repositum.tuwien.at/bitstream/20.500.12708/200949/1/Demmel%20Stella%20-%202024%20-%20Design%20manufacturing%20and%20testing%20of%20an%20open-source...pdf
 
 
