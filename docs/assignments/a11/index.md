@@ -71,13 +71,17 @@ I then began the coupling design using the same process, knowns and unknowns, FB
 In order to have a stable frame it needs to have connectors. To find which bracket I needed to choose I needed to find the torsion created by the motors. First I listed my knowns and unknowns. The 300 mm of length is from the previous assignment. 
 
 
+<img width="455" height="177" alt="Screenshot 2026-11-19 034954" src="https://github.com/user-attachments/assets/454387c9-a3e0-4a28-8b51-ab69587fa26e" />
+
 
 Then I created a Free body diagram showing how the motors will twist the screws. 
 
+<img width="212" height="241" alt="Screenshot 2026-11-19 034957" src="https://github.com/user-attachments/assets/a88cd2ef-9f1b-4c43-9e79-e09b0f1e0335" />
 
 
 I then found the torsion by finding the moments of the reacting forces of points A and B.
 
+<img width="497" height="500" alt="Screenshot 2026-11-19 035003" src="https://github.com/user-attachments/assets/d6f6a435-b62a-48ee-bbfc-7baddcca0ba0" />
 
 
 After finding the torsion that the motors would cause I needed to find a bracket that will support the frame through this force. I chose this triangle bracket: https://www.mcmaster.com/4844N44/?utm_term=t-slotted+framing+mounting+brackets&matchtype=e&campaignid=22726943438&adgroupid=181516498693&location=9191972&gad_source=1&gad_campaignid=22726943438&gbraid=0AAAAACLR9bxoQx36KLF0mBsANRs9y9QD6&gclid=CjwKCAjwnZfPBhAGEiwAzg-VzLbTAmYf7XUBDFs7MAYUOkFyr6vDTXVNg8zAIX-icwUoSbluXYTjeRoCbBsQAvD_BwE 
